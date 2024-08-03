@@ -10,7 +10,6 @@
 
 - &nbsp;<samp>Java (Spring Boot, MVC, JPA, Hibernate, JavaFX)</samp>
 - &nbsp;<samp>SQL (PostgreSQL, MySQL, Supabase, MongoDB)</samp>
-- &nbsp;<samp>I love to travel and get to know new places and cultures.</samp>
 - &nbsp;<samp>JavaScript (React, Next)</samp>
 - &nbsp;<samp>Testes (Cypress, Jest)</samp>
 - &nbsp;<samp>Node</samp>
