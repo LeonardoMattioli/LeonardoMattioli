@@ -1,16 +1,16 @@
-### Hi there 👋
+# <samp>Leonardo Mattioli</samp><img src="https://github.com/LeonardoMattioli/assets/blob/main/ball.gif" width="30px" height="30px">
 
-<!--
-**LeonardoMattioli/LeonardoMattioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/leonardomattioli)](www.linkedin.com/in/leonardomattioli)
 
-Here are some ideas to get you started:
+## <samp>Hello World!</samp> <img src="https://github.com/LeonardoMattioli/assets/blob/main/earth.gif" width="22px" height="22px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<samp>I am Leonardo Mattioli, passionate about football, sports, and technology. Currently, I am dedicating myself to studying Java and other programming languages, with the goal of building a solid foundation in software development.
+
+<samp>ome technologies I study/work with:</samp>&nbsp;👨‍💻&nbsp;🚀
+
+- &nbsp;<samp>Java (Spring Boot, MVC, JPA, Hibernate, JavaFX)</samp>
+- &nbsp;<samp>SQL (PostgreSQL, MySQL, Supabase, MongoDB)</samp>
+- &nbsp;<samp>I love to travel and get to know new places and cultures.</samp>
+- &nbsp;<samp>JavaScript (React, Next)</samp>
+- &nbsp;<samp>Testes (Cypress, Jest)</samp>
+- &nbsp;<samp>Node</samp>
