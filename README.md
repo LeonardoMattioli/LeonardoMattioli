@@ -8,7 +8,7 @@
 
 <samp>Some technologies I study/work with:</samp>&nbsp;👨‍💻&nbsp;🚀
 
-- &nbsp;<samp>Java (Spring Boot, MVC, JPA, Hibernate, JavaFX)</samp>
+- &nbsp;<samp>Java (Spring Boot, Spring Security, MVC, JPA, Hibernate, JavaFX)</samp>
 - &nbsp;<samp>SQL (PostgreSQL, MySQL, Supabase, MongoDB)</samp>
 - &nbsp;<samp>JavaScript (React, Next)</samp>
 - &nbsp;<samp>Testes (Cypress, Jest)</samp>
